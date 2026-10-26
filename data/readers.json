@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T08:04:14+00:00",
+  "updated_at": "2026-10-26T08:04:57+00:00",
   "readers": [
     {
       "id": "aa-fido-gets-dressed",
@@ -11,7 +11,7 @@
         "sentence_read": 5,
         "picture_describe": 1
       },
-      "processed_at": "2026-10-26T07:53:39+00:00"
+      "processed_at": "2026-10-26T07:59:28+00:00"
     }
   ]
 }
