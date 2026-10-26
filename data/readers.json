@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-10-26T08:04:57+00:00",
+  "updated_at": "2026-10-26T10:00:11+00:00",
   "readers": [
+    {
+      "id": "aa-big",
+      "title": "Big",
+      "level": "aa",
+      "counts": {
+        "picture_word": 8,
+        "word_spell": 5,
+        "sentence_read": 5,
+        "picture_describe": 1
+      },
+      "processed_at": "2026-10-26T09:49:29+00:00"
+    },
     {
       "id": "aa-fido-gets-dressed",
       "title": "Fido Gets Dressed",
@@ -12,6 +24,90 @@
         "picture_describe": 1
       },
       "processed_at": "2026-10-26T07:59:28+00:00"
+    },
+    {
+      "id": "aa-go-go-go",
+      "title": "Go, Go, Go",
+      "level": "aa",
+      "counts": {
+        "picture_word": 7,
+        "word_spell": 6,
+        "sentence_read": 6,
+        "picture_describe": 1
+      },
+      "processed_at": "2026-10-26T09:49:29+00:00"
+    },
+    {
+      "id": "aa-in",
+      "title": "In",
+      "level": "aa",
+      "counts": {
+        "picture_word": 8,
+        "word_spell": 6,
+        "sentence_read": 5,
+        "picture_describe": 1
+      },
+      "processed_at": "2026-10-26T09:49:29+00:00"
+    },
+    {
+      "id": "aa-my-family",
+      "title": "My Family",
+      "level": "aa",
+      "counts": {
+        "picture_word": 7,
+        "word_spell": 3,
+        "sentence_read": 5,
+        "picture_describe": 1
+      },
+      "processed_at": "2026-10-26T09:49:29+00:00"
+    },
+    {
+      "id": "aa-on",
+      "title": "On",
+      "level": "aa",
+      "counts": {
+        "picture_word": 8,
+        "word_spell": 6,
+        "sentence_read": 5,
+        "picture_describe": 1
+      },
+      "processed_at": "2026-10-26T09:49:30+00:00"
+    },
+    {
+      "id": "aa-out",
+      "title": "Out",
+      "level": "aa",
+      "counts": {
+        "picture_word": 8,
+        "word_spell": 6,
+        "sentence_read": 5,
+        "picture_describe": 1
+      },
+      "processed_at": "2026-10-26T09:49:30+00:00"
+    },
+    {
+      "id": "aa-over",
+      "title": "Over",
+      "level": "aa",
+      "counts": {
+        "picture_word": 8,
+        "word_spell": 6,
+        "sentence_read": 5,
+        "picture_describe": 1
+      },
+      "processed_at": "2026-10-26T09:49:30+00:00"
+    },
+    {
+      "id": "aa-under",
+      "title": "Under",
+      "level": "aa",
+      "counts": {
+        "picture_word": 8,
+        "word_spell": 6,
+        "sentence_read": 5,
+        "picture_describe": 1
+      },
+      "processed_at": "2026-10-26T09:49:30+00:00"
     }
   ]
 }
